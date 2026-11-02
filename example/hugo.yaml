@@ -1,12 +1,12 @@
-title: "나의 포트폴리오!!"
+title: "cat blog!!"
 baseURL: 'https://neopost.neocities.org'
-languageCode: 'en-kr'
+languageCode: 'en-us'
 titleCaseStyle: 'none' # comment this line for forcing capitalized titles on tags
 theme: "neopost"
 
 languages:
   en:
-    languageCode: en-en
+    languageCode: en-us
     contentDir: content/en
     languageName: english
     weight: 1
@@ -23,22 +23,22 @@ languages:
           more: "read more"
           less: "read less"
   jp:
-    languageCode: kr-kr
-    contentDir: content/kr
-    languageName: 한국어
+    languageCode: ja-jp
+    contentDir: content/jp
+    languageName: 日本語
     weight: 2
     params:
       sidebar:
         tags:
           enable: true # default = true?
           limit: 2 # limit showcasing only up to this number of tags in bio, defaults to 5
-          more-text: "더 많은 태그.." # show a hyperlink with this text if there's more tags than tags-limit
+          more-text: "その他のタグ。。。" # show a hyperlink with this text if there's more tags than tags-limit
 
       read-more:
         length-limit: 80 # if the text exceeds this number of characters, the read more button will appear to expand the text
         text:
-          more: "더 읽기"
-          less: "줄이기"
+          more: "もっと読む"
+          less: "もっと読む"
 
 permalinks:
   posts: "/posts/:filename/"

@@ -2,7 +2,7 @@ title: "cat blog!!"
 baseURL: 'https://neopost.neocities.org'
 languageCode: 'en-us'
 titleCaseStyle: 'none' # comment this line for forcing capitalized titles on tags
-
+theme: "neopost"
 
 languages:
   en:
