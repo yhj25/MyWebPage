@@ -23,7 +23,7 @@ languages:
           more: "read more"
           less: "read less"
   ko:
-    languageCode: ko-ko
+    languageCode: ko-kr
     contentDir: content/ko
     languageName: 한국어
     weight: 2
