@@ -6,8 +6,6 @@ title-images:
 ending-images: 
 author: "yunhj25"
 draft: false
-table-of-contents: true
-toc-auto-numbering: true
 
 ---
 <!-- introduction -->
