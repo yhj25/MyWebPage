@@ -1,5 +1,5 @@
 ---
 headless: true
 ---
-- age: 5
-- pronouns: she/her
+- Date of Birth: 2006.02.01
+- School: Jeonbuk National University
