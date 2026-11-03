@@ -1,6 +1,6 @@
 ---
 title: "대표 활동"
-date: "2026-11-03"
+date: "2026-11-02T08:00:00"
 tags: ["대표 활동"]
 title-images: 
 ending-images: 
