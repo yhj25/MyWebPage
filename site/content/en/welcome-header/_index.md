@@ -1,14 +1,15 @@
 ---
 headless: true
-title: "welcome to my blog~!"
+title: "welcome~!"
 intro: 
-  - "this is an example introduction. feel free to customize it!"
-  - "add more lines to make it personal."
+  - "This is my portfolio space."
+  - " Details are below."
 image: "/cat.png"
 list:
-  name: "things i love:"
+  name: "Table of Contents:"
   items: 
-    - "coding"
-    - "cats"
-    - "coffee"
+    - "Areas of interest and reasons for selection"
+    - "Learning Objectives and Action Plan"
+    - "Competencies and Use Cases"
+    - "Representative Activities (Practical Activities)"
 ---
