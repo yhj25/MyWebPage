@@ -44,6 +44,7 @@ languages:
           less: "read less"
 
 permalinks:
+  tags: "/tags/:slug/"
   posts: "/posts/:filename/"
 
 params:
