@@ -1,0 +1,5 @@
+.post .tags a, article .tags a, .post-footer .tags a {
+  pointer-events: none !important;
+  cursor: default !important;
+  text-decoration: none !important;
+}

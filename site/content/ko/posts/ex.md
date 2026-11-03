@@ -1,7 +1,7 @@
 ---
 title: "역량과 적용 사럐"
 date: "2026-11-02T09:00:00"
-#tags: ["역량", "적용 사례"]
+tags: ["역량", "적용 사례"]
 title-images: []
 ending-images: []
 author: "yunhj25"

@@ -52,3 +52,4 @@ params:
   favicon: "/favicon.ico"
   posts-per-page: 1
   toc-auto-numbering: false
+  customCSS: ["css/custom.css"]
