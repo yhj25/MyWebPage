@@ -1,7 +1,7 @@
 ---
 title: "Areas of interest and reasons for selection"
 date: "2026-11-03T11:00:00"
-tags: ["Areas of interest", "reasons for selection"]
+#tags: ["Areas of interest", "reasons for selection"]
 title-images: 
 ending-images: 
 author: "yunhj25"

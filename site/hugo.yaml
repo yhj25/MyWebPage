@@ -52,4 +52,6 @@ params:
   favicon: "/favicon.ico"
   posts-per-page: 1
   toc-auto-numbering: false
-  customCSS: ["css/custom.css"]
+  sidebar:
+    tags:
+      enable: false  # <-- true에서 false로 변경!

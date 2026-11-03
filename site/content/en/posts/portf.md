@@ -1,7 +1,7 @@
 ---
 title: "Representative Activities"
 date: "2026-11-01T08:00:00"
-tags: ["Representative Activities"]
+#tags: ["Representative Activities"]
 title-images: 
 ending-images: 
 author: "yunhj25"

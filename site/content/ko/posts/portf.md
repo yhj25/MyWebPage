@@ -1,7 +1,7 @@
 ---
 title: "대표 활동"
 date: "2026-11-01T08:00:00"
-tags: ["대표 활동"]
+#tags: ["대표 활동"]
 title-images: 
 ending-images: 
 author: "yunhj25"
