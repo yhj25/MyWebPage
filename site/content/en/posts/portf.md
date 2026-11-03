@@ -26,7 +26,7 @@ Development process: Set up the React/Vite project environment and integrated th
 
 -Results
 Distribution site URL: [https://yhj25.github.io/mini-todo/]
-GitHub 저장소: [https://github.com/yhj25/mini-todo]/
+GitHub URL: [https://github.com/yhj25/mini-todo]/
 Result Description: We completed a web app that allows real-time management of individual to-do lists after signing up or logging in, and verified that deployment is automatically reflected upon commit pushes to the main branch.
 
 -Learning Outcomes and Directions for Improvement /
