@@ -4,7 +4,7 @@ title: "welcome~!"
 intro: 
   - "This is my portfolio space."
   - " Details are below."
-image: "/cat.png"
+image: "/ghost.png"
 list:
   name: "Table of Contents:"
   items: 
