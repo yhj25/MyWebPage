@@ -6,6 +6,9 @@ title-images: []
 ending-images: []
 author: "yunhj25"
 draft: false
+table-of-contents: true
+toc-auto-numbering: true
+
 ---
 <!-- introduction -->
 학습 목표: AI API 및 Serverless BaaS를 자유롭게 연동할 수 있는 반응형 프론트엔드 개발 역량 강화

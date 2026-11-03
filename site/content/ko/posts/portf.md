@@ -6,6 +6,9 @@ title-images:
 ending-images: 
 author: "yunhj25"
 draft: false
+table-of-contents: true
+toc-auto-numbering: true
+
 ---
 <!-- introduction -->
 활동명: Firebase 기반 Mini-Todo 앱 개발 및 GitHub Actions 자동 배포 실습/

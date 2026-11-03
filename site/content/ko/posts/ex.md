@@ -6,6 +6,9 @@ title-images: []
 ending-images: []
 author: "yunhj25"
 draft: false
+table-of-contents: true
+toc-auto-numbering: true
+
 ---
 <!-- introduction -->
 역량 및 적용 사례: React/Vite 환경 구축 및 Firebase 기반 연동 역량

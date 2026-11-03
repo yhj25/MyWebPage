@@ -6,6 +6,9 @@ title-images:
 ending-images: 
 author: "yunhj25"
 draft: false
+table-of-contents: true
+toc-auto-numbering: true
+
 ---
 <!-- introduction -->
 -관심 분야: AI 기반 웹 서비스 및 자동화 도구 분야
