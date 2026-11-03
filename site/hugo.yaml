@@ -1,6 +1,6 @@
 title: "나의 포트폴리오!!"
 baseURL: 'https://neopost.neocities.org'
-languageCode: 'en-us'
+languageCode: 'ko-kr'
 titleCaseStyle: 'none' # comment this line for forcing capitalized titles on tags
 theme: "neopost"
 
@@ -9,7 +9,7 @@ languages:
     languageCode: en-us
     contentDir: content/en
     languageName: english
-    weight: 1
+    weight: 2
     params:
       sidebar:
         tags:
@@ -26,7 +26,7 @@ languages:
     languageCode: ko-kr
     contentDir: content/ko
     languageName: 한국어
-    weight: 2
+    weight: 1
     params:
       sidebar:
         tags:
