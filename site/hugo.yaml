@@ -1,8 +1,13 @@
 title: "나의 포트폴리오!!"
 baseURL: 'https://yhj25.github.io/MyWebPage/'
 languageCode: 'ko-kr'
+defaultContentLanguage: 'ko'
 titleCaseStyle: 'none'
 theme: "neopost"
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
 
 languages:
   ko:
@@ -44,5 +49,5 @@ permalinks:
 params:
   theme: "light-blue"
   favicon: "/favicon.ico"
-  posts-per-page: 5
+  posts-per-page: 1
   toc-auto-numbering: false
