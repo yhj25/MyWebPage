@@ -4,7 +4,7 @@ title: "어서오세요~!"
 intro: 
   - "이곳은 저의 포트폴리오 공간입니다."
   - "아래에 자세한 내용들이 있습니다."
-image: "/cat.png"
+image: "/pumkin.png"
 list:
   name: "목차："
   items: 
