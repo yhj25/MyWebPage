@@ -1,6 +1,6 @@
 ---
 headless: true
 ---
-meow! mochi here, your purrfect companion
+Hello~!
 
-rawr do you like my blog?
+I am yhj25 from the Department of Computer-Artificial-Intelligence, class of 2029.
