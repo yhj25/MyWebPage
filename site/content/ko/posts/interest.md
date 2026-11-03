@@ -1,6 +1,6 @@
 ---
 title: "관심 분야와 선택 이유"
-date: "2026-11-02"
+date: "2026-11-02T06:00:00"
 tags: ["관심 분야", "선택 이유"]
 title-images: 
 ending-images: 

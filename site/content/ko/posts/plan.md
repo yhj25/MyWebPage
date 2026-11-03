@@ -1,6 +1,6 @@
 ---
 title: "학습 목표와 실행 계획"
-date: "2026-11-02"
+date: "2026-11-02T07:00:00"
 tags: ["학습 목표", "실행 계획"]
 title-images: []
 ending-images: []
